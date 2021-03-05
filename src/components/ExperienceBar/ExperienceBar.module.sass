@@ -1,0 +1,31 @@
+@import './../../styles/theme'
+
+.experience-bar
+    +flex-settings()
+    +flex-alignment(center, flex-start)
+
+    span
+        font-size: 1rem
+
+    > div
+        flex: 1
+        height: 4px
+        border-radius: 4px
+        background-color: $grayLineColor
+        margin: 0 1.5rem
+        position: relative
+
+        > div
+            position: absolute
+            height: 4px
+            border-radius: 4px
+            background-color: $green
+            transition: width 0.65s ease
+
+
+.current-xp
+    position: absolute
+    top: 12px
+    font-weight: bold
+    transform: translateX(-50%)
+    transition: left 0.65s ease
