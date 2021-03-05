@@ -21,7 +21,7 @@
 
 <h2 style="font-weight:300">🌐 Deploy:</h2>
 
-<a href="https://moveit-paulofreitas_py.vercel.app/">
+<a href="https://nlw-4-react-one.vercel.app/">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt='Deploy'/>
 </a>
 
