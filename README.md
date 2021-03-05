@@ -42,7 +42,7 @@ Para ver layout criado por **Rocketseat** clique no crachá abaixo:
 
 
 -   Adicionar packgaes para fechar  **Level Up Modal** quando pressionar a tecla ESC;
--   tems Dark ou Light (obter o modo de cor do seu sistema operacional);
+-   Dark ou Light (obter o modo de cor do seu sistema operacional);
 
     -   Exemplo de como definir cores escuras e cores claras:
 
